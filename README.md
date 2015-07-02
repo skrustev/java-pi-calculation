@@ -4,9 +4,9 @@ Pi calculator in Java using multithreading techniques.
 [Screenshot](http://i.gyazo.com/9d7b95a1f67c51d8da0a8b8f4923641e.png)
 
 ## How to use
-**Note**: Tested only on Windows. Possible UI problems under Linux
-1. You need to have installed Java SDK
-2. Execute the pi.jar using the command:
+**Note**: Tested only on Windows. Possible UI problems under Linux <br />
+1. You need to have installed Java SDK <br />
+2. Execute the pi.jar using the command: 
 
 	```
 	java -jar pi.jar
